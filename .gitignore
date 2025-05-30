@@ -1,0 +1,32 @@
+# Ignorar a virtualenv
+.venv/
+
+# Arquivos temporários e cache do Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Logs
+*.log
+
+# Configurações e ambientes
+.env
+*.env
+
+# SQLite (caso use)
+*.sqlite3
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebooks checkpoints (se usar)
+.ipynb_checkpoints/
+
+# VSCode configs (opcional)
+.vscode/
+
+# Arquivos de sistema (Windows/Mac)
+.DS_Store
+Thumbs.db
