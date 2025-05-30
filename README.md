@@ -75,8 +75,6 @@ Copyright © 2025 Hugo Leonardo
 ## 👨‍💻 Autor
 Hugo Leonardo
 
-GitHub: github.com/seu-usuario
-LinkedIn: linkedin.com/in/seu-perfil
 
 ## 🎯 Objetivo
 Este projeto foi criado para estudar e aplicar técnicas modernas de inteligência artificial, com foco em Retrieval-Augmented Generation (RAG) para processamento e interação com documentos PDF.
