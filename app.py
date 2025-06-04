@@ -10,7 +10,7 @@ import unicodedata
 import traceback
 
 # Configuração da API do OpenRouter
-os.environ["OPENROUTER_API_KEY"] = "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"
+os.environ["OPENROUTER_API_KEY"] = "sk-or-sua-chave"
 
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
